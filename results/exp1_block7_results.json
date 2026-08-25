@@ -1,0 +1,7 @@
+{
+  "all_bounds_hold": true,
+  "op_le_frob_frac": 1.0,
+  "frob_le_bound_frac": 1.0,
+  "inter_le_bound_frac": 1.0,
+  "pass": true
+}

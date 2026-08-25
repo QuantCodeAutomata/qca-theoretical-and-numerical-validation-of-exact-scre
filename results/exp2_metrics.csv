@@ -1,0 +1,3 @@
+scheme,max_abs_offdiag_corr,mean_abs_offdiag_corr
+past_only,0.9985213176615272,0.4920790006240955
+horizon_closed,0.09344962701185996,0.025872303563470405

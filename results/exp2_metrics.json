@@ -1,0 +1,21 @@
+{
+  "past_only": {
+    "max_abs_offdiag_corr": 0.9985213176615272,
+    "mean_abs_offdiag_corr": 0.4920790006240955
+  },
+  "horizon_closed": {
+    "max_abs_offdiag_corr": 0.09344962701185996,
+    "mean_abs_offdiag_corr": 0.025872303563470405
+  },
+  "simulation": {
+    "n_assets": 30,
+    "n_drivers": 3,
+    "T_total": 5000,
+    "T_train": 4000,
+    "T_eval": 1000,
+    "phi": 0.95,
+    "innov_var": 0.0975,
+    "loading_var": 0.5,
+    "seed": 42
+  }
+}

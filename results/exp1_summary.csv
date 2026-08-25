@@ -1,0 +1,8 @@
+block,name,key_metric,value,pass
+1,Screening decomposition,residual_frob,0.0,True
+2,Projection affine,omega_max_eig,1.0832085385564722e-28,True
+3,Projection nonlinear,omega_max_eig,18.74784941740966,True
+4,Markowitz identities,constraint_residual,1.113108673281756e-15,True
+5,Perturbation identities,max_identity_norm,1.2232472826364946e-14,True
+6,First-order perturbation,mean_weight_rel_err,0.13201983136477355,True
+7,Diagnostic bound,all_bounds_hold,1,True

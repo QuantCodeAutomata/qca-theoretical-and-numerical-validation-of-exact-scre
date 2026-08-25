@@ -1,0 +1,18 @@
+{
+  "pre_common_mean": 0.194852879420237,
+  "pre_proxy_mean": 0.194852879420237,
+  "post_common_mean": 0.1934109191535066,
+  "post_proxy_mean": 0.9746631230963294,
+  "pre_common_mcse": 0.0011685669737723475,
+  "pre_proxy_mcse": 0.0011685669737723466,
+  "post_common_mcse": 0.0012693604099062253,
+  "post_proxy_mcse": 0.0007421701611251852,
+  "pre_common_ci95_lower": 0.1925157454726923,
+  "pre_common_ci95_upper": 0.1971900133677817,
+  "pre_proxy_ci95_lower": 0.1925157454726923,
+  "pre_proxy_ci95_upper": 0.1971900133677817,
+  "post_common_ci95_lower": 0.19087219833369415,
+  "post_common_ci95_upper": 0.19594963997331907,
+  "post_proxy_ci95_lower": 0.973178782774079,
+  "post_proxy_ci95_upper": 0.9761474634185798
+}

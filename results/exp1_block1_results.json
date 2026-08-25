@@ -1,0 +1,7 @@
+{
+  "residual_frob": 0.0,
+  "residual_op": 0.0,
+  "relative_frob_error": 0.0,
+  "mc_frob_error": 0.04238010736189646,
+  "pass": true
+}
